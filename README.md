@@ -1,16 +1,18 @@
 # clima
 
-A new Flutter project.
+Flutter project following the instructions on the course released by the 
+[londonappbrewery](https://github.com/londonappbrewery) program school. 
 
-## Getting Started
+## Functionality
 
-This project is a starting point for a Flutter application.
+In this project the user can insert a city name and then the app shows weather data 
+about that city. 
 
-A few resources to get you started if this is your first Flutter project:
+## Packages
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+In this project were used the following packages and their respective versions.
+ 
+- geolocator: ^3.0.1
+- http: ^0.12.0+2
+- flutter_spinkit: ^3.1.0
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
